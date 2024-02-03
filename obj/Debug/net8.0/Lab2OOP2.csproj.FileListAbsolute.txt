@@ -1,0 +1,14 @@
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\obj\Debug\net8.0\Lab2OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\obj\Debug\net8.0\Lab2OOP2.AssemblyInfoInputs.cache
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\obj\Debug\net8.0\Lab2OOP2.AssemblyInfo.cs
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\obj\Debug\net8.0\Lab2OOP2.csproj.CoreCompileInputs.cache
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\bin\Debug\net8.0\Lab2OOP2.exe
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\bin\Debug\net8.0\Lab2OOP2.deps.json
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\bin\Debug\net8.0\Lab2OOP2.runtimeconfig.json
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\bin\Debug\net8.0\Lab2OOP2.dll
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\bin\Debug\net8.0\Lab2OOP2.pdb
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\obj\Debug\net8.0\Lab2OOP2.dll
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\obj\Debug\net8.0\refint\Lab2OOP2.dll
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\obj\Debug\net8.0\Lab2OOP2.pdb
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\obj\Debug\net8.0\Lab2OOP2.genruntimeconfig.cache
+C:\Users\gw\RiderProjects\Lab2OOP2\Lab2OOP2\obj\Debug\net8.0\ref\Lab2OOP2.dll
